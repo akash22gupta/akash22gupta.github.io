@@ -15,40 +15,55 @@
 		</header>
 		<nav>
 			<ul>
-				<li class="start selected"><a href="index.html">Home</a></li>
-				<li><a href="/csj/externalstorage">External Storage</a></li>
-				<li><a href="/csj/headphone">Headphones</a></li>
-				<li><a href="/csj/laptop">Laptops</a></li>
-				<li><a href="/csj/phone">Phones</a></li>
-				<li><a href="/csj/smartWatch">Smart Watches</a></li>
-				<li><a href="/csj/speaker">Speakers</a></li>
-				<li style="float: right;"><a href="signup.html">Signup</a></li>
-				<li style="float: right;"><a href="login.html">Login</a></li>
+				<li class="start selected"><a href="index.html">Home</a></li>				
+				<li style="float: right;"><a href="/csj/logout">Logout</a></li>
 			</ul>
 		</nav>
-
-		<img class="header-image" src="images/image.jpg" alt="Buildings" />
 
 		<div id="body">
 
 			<section id="content">
-			<h1 style="float: center; color:blue">Welcome to Smart Portables.</h1>			
-			<img src='images/phone/iphone2.jpg' alt='Logo' width='200' height='250' style='float:left;'/>
-			<img src='images/phone/samsung.jpg' alt='Logo' width='200' height='250' style='float:center;'/>
-			<img src='images/laptop/dell.jpg' alt='Logo' width='200' height='250' style='float:right;'/>
+			
+			<form action="/csj/addproduct" method="post"  autofocus>
+				<header>Create a new customer account</header>
+				
+				<label>Product Type </label>
+				<select name="product_type">
+				<option value = "external_storage">External Storage</option>
+				<option value = "headphones">Headphones</option>
+				<option value = "laptops">Laptops</option>
+				<option value = "phones">Phones</option>
+				<option value = "smart_watches">Smart Watches</option>
+				<option value = "speakers">Speakers</option>
+
+				</select>
+				
+				<label>Retailer </label>
+				<input type="text" name="Retailer"required />
+				
+				<label>ImagePath</label>
+				<input type = "text" name="Image" required />
+				
+				<label>Name </label>
+				<input type="text" name="name" required  />
+				
+				<label>Condition </label>
+				<input type="text" name="condition" required />
+				
+				<label>Price </label>
+				<input type="text" name="price" required />
+				
+				<input type = "submit" value="Add Product" class="center" />				
+			</form>
+			
 			</section>
 
 			<aside class="sidebar">
 				<ul>
 					<li>
-						<h4>Navigation</h4>
+						<h4>Products</h4>
 						<ul>
-							<li><a href="/csj/externalstorage">External Storage</a></li>
-							<li><a href="/csj/headphone">Headphones</a></li>
-							<li><a href="/csj/laptop">Laptops</a></li>
-							<li><a href="/csj/phone">Phones</a></li>
-							<li><a href="/csj/smartWatch">Smart Watches</a></li>
-							<li><a href="/csj/speaker">Speakers</a></li>
+							<li><a href="/csj/store">Home Page</a></li>
 						</ul>
 					</li>
 

@@ -1,0 +1,4 @@
+Storemanager,manager,store@gmail.com,storemanager,3124562335,Storemanager
+Salesman,salesman,sales@gmail.com,Salesman,3456542345,Salesman
+AKASH,GUPTA,agupta111@hawk.iit.edu,24,6466623588,Customer
+Akash,Gupta,akash22gupta@gmail.com,akash,6466623478,Customer

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ProductCatalog>
+    <externalstorage>
+		<id>1</id>
+		<name>Hp pendrive</name>
+		<retailer>SmartPortables</retailer>
+        <image>images/External Storage/hp.jpg</image>
+        <condition>New</condition>
+        <price>5</price>
+    </externalstorage>
+	<externalstorage>
+		<id>2</id>
+		<name>Samsung 128GB</name>
+		<retailer>SmartPortables</retailer>
+        <image>images/External Storage/samsung.jpg</image>
+        <condition>New</condition>
+        <price>16</price>
+    </externalstorage>
+	<externalstorage>
+		<id>3</id>
+		<name>San Disk card</name>
+		<retailer>SmartPortables</retailer>
+        <image>images/External Storage/sd.jpg</image>
+        <condition>New</condition>
+        <price>10</price>
+    </externalstorage>
+	<externalstorage>
+		<id>4</id>
+		<name>Transcend Hard Drive</name>
+		<retailer>SmartPortables</retailer>
+        <image>images/External Storage/transcend.jpg</image>
+        <condition>Old</condition>
+        <price>30</price>
+    </externalstorage>
+	<externalstorage>
+		<id>5</id>
+		<name>Western Digital Hard Disk</name>
+		<retailer>SmartPortables</retailer>
+        <image>images/External Storage/wd.jpg</image>
+        <condition>New</condition>
+        <price>45</price>
+    </externalstorage>
+</ProductCatalog>

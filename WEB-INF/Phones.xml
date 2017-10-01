@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ProductCatalog>
+
+  <phone>
+    <id>1</id>
+    <image>images/Phones/google.jpg</image>
+    <name>google Phone</name>
+    <condition>New</condition>
+    <price>750</price>
+    <retailer>SmartPortables</retailer>
+  </phone>
+  <phone>
+    <id>2</id>
+    <image>images/Phones/iphone.png</image>
+    <name>Iphone Phone</name>
+    <condition>New</condition>
+    <price>600</price>
+    <retailer>SmartPortables</retailer>
+  </phone>
+  <phone>
+    <id>3</id>
+    <image>images/Phones/lg.jpg</image>
+    <name>LG Phone</name>
+    <condition>New</condition>
+    <price>500</price>
+    <retailer>SmartPortables</retailer>
+  </phone>
+  <phone>
+    <id>4</id>
+    <image>images/Phones/lumia.png</image>
+    <name>Lumia Phone</name>
+    <condition>Old</condition>
+    <price>300</price>
+    <retailer>SmartPortables</retailer>
+  </phone>
+  <phone>
+    <id>5</id>
+    <image>images/Phones/samsung.jpg</image>
+    <name>Samsung Phone</name>
+    <condition>Old</condition>
+    <price>450</price>
+    <retailer>SmartPortables</retailer>
+  </phone>
+
+</ProductCatalog>

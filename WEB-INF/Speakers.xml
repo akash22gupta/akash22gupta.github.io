@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ProductCatalog>
+    <speaker>
+		<id>1</id>
+		<name>Beats</name>
+		<retailer>SmartPortables</retailer>
+        <image>images/Speakers/beats.jpg</image>
+        <condition>New</condition>
+        <price>75</price>
+    </speaker>
+	<speaker>
+		<id>2</id>
+		<name>BOSE</name>
+		<retailer>SmartPortables</retailer>
+        <image>images/Speakers/bose.jpg</image>
+        <condition>New</condition>
+        <price>60</price>
+    </speaker>
+	<speaker>
+		<id>3</id>
+		<name>JBL</name>
+		<retailer>SmartPortables</retailer>
+        <image>images/Speakers/jbl.jpg</image>
+        <condition>New</condition>
+        <price>50</price>
+    </speaker>
+	<speaker>
+		<id>4</id>
+		<name>Philips</name>
+		<retailer>SmartPortables</retailer>
+        <image>images/Speakers/philips.jpg</image>
+        <condition>Old</condition>
+        <price>30</price>
+    </speaker>
+	<speaker>
+		<id>5</id>
+		<name>Sony</name>
+		<retailer>SmartPortables</retailer>
+        <image>images/Speakers/sony.jpg</image>
+        <condition>Old</condition>
+        <price>45</price>
+    </speaker>
+</ProductCatalog>

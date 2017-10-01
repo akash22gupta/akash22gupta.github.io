@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ProductCatalog>
+    <laptop>
+		<id>1</id>
+		<name>Acer Laptop</name>
+		<retailer>SmartPortables</retailer>
+        <image>images/Laptops/acer.jpg</image>
+        <condition>New</condition>
+        <price>750</price>
+    </laptop>
+	<laptop>
+		<id>2</id>
+		<name>Apple Laptop</name>
+		<retailer>SmartPortables</retailer>
+        <image>images/Laptops/apple.jpg</image>
+        <condition>New</condition>
+        <price>600</price>
+    </laptop>
+	<laptop>
+		<id>3</id>
+		<name>HP Laptop</name>
+		<retailer>SmartPortables</retailer>
+        <image>images/Laptops/hp.jpg</image>
+        <condition>New</condition>
+        <price>500</price>
+    </laptop>
+	<laptop>
+		<id>4</id>
+		<name>Lenovo Laptop</name>
+		<retailer>SmartPortables</retailer>
+        <image>images/Laptops/lenovo.jpg</image>
+        <condition>Old</condition>
+        <price>300</price>
+    </laptop>
+	<laptop>
+		<id>5</id>
+		<name>Samsung Laptop</name>
+		<retailer>SmartPortables</retailer>
+        <image>images/Laptops/samsung.jpg</image>
+        <condition>Old</condition>
+        <price>450</price>
+    </laptop>
+</ProductCatalog>
