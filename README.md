@@ -1,3 +1,3 @@
-Visit - www.akashgupta.me
+Visit - http://akashgupta.me
 
 Personal website for professional use
