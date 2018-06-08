@@ -17,6 +17,6 @@ linkedin_username:  akash22gupta
 
 # Google-analytics
 google-analytics:
-  id: ""
+  id: "UA-120517137-1"
 
 exclude: ['package.json', 'src' , 'node_modules']
